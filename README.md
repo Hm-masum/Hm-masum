@@ -24,6 +24,6 @@
 
 ## :eyes: Current overview
 ### 🔭 I’m a student Of computer science and Engineering. 
-### 🌱 I’m currently learning react.js, mongodb, node.js.
+### 🌱 I’m currently learning typescript and next.js.
 ### 👯 I solved 500+ cp problems in various online judges. 
 ### 🤔  I’m looking to remote Job as MERN Stack Web Developer. 
