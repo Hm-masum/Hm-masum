@@ -4,11 +4,8 @@
 <h3 align="center">A passionate web developer from Bangladesh.</h3>
 </br>
 
-<div align="center">
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hm-masum&label=Profile%20views&color=0e75b6&style=flat" alt="hm-masum" /> </p>
-  
-<h3 align="left">:computer: Technologies that I know</h3> </br>
+
+## :computer: Technologies that I know
 <p align="center"> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/HTML.png"/> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/css.png"/> 
@@ -16,25 +13,27 @@
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/c.png"/> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/cpp.png"/> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/JavaScript.png"/> 
+  </p>
+<p align="center">
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/react.png"/> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/redux.png"/> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/firebase.png"/> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/node.png"/> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/express.png"/> 
   <img src="https://github.com/Hm-masum/Hm-masum/blob/main/icons/mongo.png"/> 
-</p></br>
-</div>
-</br>
+</p>
 
 
-## :chart_with_upwards_trend: Current Streak
-<div align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hm-masum&" alt="hm-masum" /></div>
+## :chart_with_upwards_trend: Current Stats
+<p align="center">
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com?user=Hm-masum&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
 ## :beginner: Commit Count
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hm-masum&show_icons=true&locale=en" alt="hm-masum" /></p>
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=hm-masum&show_icons=true&locale=en&theme=tokyonight" alt="hm-masum" /></p>
 
 ## :anchor: Language uses
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hm-masum&show_icons=true&locale=en&layout=compact" alt="hm-masum" /></p>
+<p align="center"><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hm-masum&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="hm-masum" /></p>
 
 ## :eyes: Current overview
 ### 🔭 I’m a student Of computer science and Engineering. 
