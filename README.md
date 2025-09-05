@@ -37,6 +37,6 @@
 
 ## :eyes: Current overview
 ### 🔭 I’m a student Of computer science and Engineering. 
-### 🌱 I’m currently learning typescript and next.js.
+### 🌱 I’m currently learning Prisma and Docker.
 ### 👯 I solved 500+ cp problems in various online judges. 
-### 🤔  I’m looking to remote Job as MERN Stack Web Developer. 
+### 🤔  I’m looking to remote Job as Full Stack Web Developer. 
